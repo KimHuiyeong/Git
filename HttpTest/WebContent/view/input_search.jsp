@@ -22,7 +22,7 @@
 	String address = request.getParameter("address");
 	String email = request.getParameter("email");
 	
-	
+	//3. 수정 테스트
 	HttpDTO dto = new HttpDTO();
 	ArrayList<HttpDTO> list = new ArrayList<HttpDTO>();
 	
