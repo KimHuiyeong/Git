@@ -35,7 +35,7 @@
 	Connection con;
 	Statement stat;
 
-
+	//테스트
 	String url = "jdbc:oracle:thin:@localhost:1521:KNLDB"; 
 	String id = "test";
 	String pw = "1234";
